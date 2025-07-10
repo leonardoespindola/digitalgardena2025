@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quality-garden/testing/testing-2025/","tags":["prueba","testing"],"created":"2024-12-30T00:41:56.617-03:00","updated":"2025-07-10T00:39:51.780-03:00"}
+{"dg-publish":true,"permalink":"/quality-garden/testing/testing-2025/","tags":["prueba","testing"],"created":"2024-12-30T00:41:56.617-03:00","updated":"2025-07-10T00:39:59.996-03:00"}
 ---
 
 # Se viene Testing 2025
